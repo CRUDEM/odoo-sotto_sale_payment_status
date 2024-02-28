@@ -16,7 +16,7 @@
         'views/sale_order_views.xml',
     ],
     'installable': True,
-    'auto_install': False,
+    'auto_install': True,
     'license': 'LGPL-3',
     'application':True,
     "price": 0,
